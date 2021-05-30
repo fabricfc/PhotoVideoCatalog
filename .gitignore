@@ -1,0 +1,5 @@
+/bin/*.class
+/bin/util/*.class
+/.classpath
+.project
+/junk
